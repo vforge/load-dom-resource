@@ -1,0 +1,28 @@
+{
+  "name": "load-dom-resource",
+  "version": "0.0.0",
+  "description": "Async load an external resource into the DOM",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vforge/load-dom-resource.git"
+  },
+  "keywords": [
+    "dom",
+    "ajax",
+    "resource",
+    "async",
+    "load",
+    "svg",
+    "script",
+    "css"
+  ],
+  "author": "Bartosz V. Bentkowski <me@bartoszbentkowski.com> (http://bartoszbentkowski.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vforge/load-dom-resource/issues"
+  },
+  "homepage": "https://github.com/vforge/load-dom-resource#readme"
+}
